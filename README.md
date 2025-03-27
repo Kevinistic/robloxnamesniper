@@ -1,5 +1,5 @@
 # robloxnamesniper
-yeah
+**please use at your own risk**, roblox may rate-limit and you will be unable to send requests to the site
 
 ## Prerequisites
 make sure you've downloaded:
