@@ -1,5 +1,6 @@
 # robloxnamesniper
 **please use at your own risk**, roblox may rate-limit and you will be unable to send requests to the site
+
 huge credit to [ocuz](https://github.com/ocuz/Roblox-Name-Sniper) for the original script
 
 ## Prerequisites
