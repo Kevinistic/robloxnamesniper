@@ -8,7 +8,7 @@ make sure you've downloaded:
 1. python (duh)
 2. [pip](https://pip.pypa.io/en/stable/installation/#)
 3. libraries, open your terminal and enter 'pip install requests colorama'
-3.5. replace pip with pip3 if the line above does not work
+4. replace pip with pip3 if the line above does not work
 
 ## Installation
 ### Intended
